@@ -1,0 +1,10 @@
+nav div a img {
+    max-width: 150px;
+}
+ 
+nav div div{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 50px;
+}
