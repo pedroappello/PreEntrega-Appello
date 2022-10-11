@@ -8,3 +8,31 @@ nav div div{
     flex-direction: row;
     margin: 50px;
 }
+
+ 
+main div img {
+    height: 700px;
+    width: 600px;
+}
+
+
+footer {
+    background-color: #050101;
+    padding: 100px;  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+}
+
+footer img{ max-width: 100px;
+}
+ 
+body { 
+    display: grid;
+    grid-template-rows: 150px 600px 300px; 
+    grid-row-gap: 20px;
+    
+}
+
